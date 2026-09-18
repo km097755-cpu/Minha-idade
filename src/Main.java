@@ -9,5 +9,6 @@ if (idade <=10)
 else if (idade <+17)
     } System.out.println("Adolescente");
 
+els
+}System.out.println("Adulto");
 
-}
